@@ -1,1 +1,1 @@
-[![Harman's GitHub README](https://api.harmansandhu.tech/?username=gliverCouto&bg=white&fill=black&avatar=false$txt=A Technical Writer and passionate about technology products!)](https://github.com/Harman-Sandhu/github-readme-generator)
+[![Harman's GitHub README](https://api.harmansandhu.tech/?username=gliverCouto&bg=white&fill=black&avatar=false$txt="A Technical Writer and passionate about technology products!")](https://github.com/Harman-Sandhu/github-readme-generator)
